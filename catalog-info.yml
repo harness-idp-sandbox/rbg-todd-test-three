@@ -3,7 +3,7 @@ kind: Component
 type: service
 identifier: todd_test_three
 name: Todd Test Three
-owner: user:account/todd.parson@harness.io
+owner: user:natalie.finnegan
 orgIdentifier: default
 projectIdentifier: default_project
 spec:
